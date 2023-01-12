@@ -50,15 +50,12 @@ MySQL ist ein beliebtes relationales Open-Source-Datenbankmanagementsystem. Es w
 | US-13 | Muss | Funktional | Als Kandidat möchte ich jederzeit die Möglichkeit haben entweder weiter zu spielen oder aufzuhören und meinen Gewinn in die Highscore-Liste übernehmen zu können. |
 | US-14 | Muss | Funktional | Als Administrator möchte ich sicherstellen, dass das Spiel mit einer spielbaren Anzahl Wörtern und Fragen gefüllt ist. |
 | US-15 | Muss | Funktional | Als Administrator möchte ich die Anzahl der Spielrunden zählen zu können. |
-| US-16 | Muss | Funktional | Als Entwickler möchte ich sicherstellen, dass einfache Formulareingaben auf Client- und Serverseite geprüft werden. |
-| US-17 | Muss | Funktional | Als Entwickler möchte ich die Wahl haben, welche Art von Datenbank verwendet wird. |
-| US-18 | Muss | Funktional | Als Entwickler möchte ich eine Datenbankanbindung verwenden, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist. |
-| US-19 | Muss | Funktional | Als Entwickler möchte ich Transaktionsmanagement einsetzen, um die Integrität der Daten sicherzustellen. |
-| US-20 | Muss | Funktional | Als Entwickler möchte ich Sicherheitsaspekte umsetzen, um die Daten und die Anwendung vor unbefugtem Zugriff zu schützen. |
+| US-16 | Muss | Rand | Als Entwickler möchte ich sicherstellen, dass einfache Formulareingaben auf Client- und Serverseite geprüft werden. |
+| US-17 | Muss | Rand | Als Entwickler möchte ich die Wahl haben, welche Art von Datenbank verwendet wird. |
+| US-18 | Muss | Rand | Als Entwickler möchte ich eine Datenbankanbindung verwenden, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist. |
+| US-19 | Muss | Rand | Als Entwickler möchte ich Transaktionsmanagement einsetzen, um die Integrität der Daten sicherzustellen. |
+| US-20 | Muss | Rand | Als Entwickler möchte ich Sicherheitsaspekte umsetzen, um die Daten und die Anwendung vor unbefugtem Zugriff zu schützen. |
 
-
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
 # 4.2 Testfälle
 
