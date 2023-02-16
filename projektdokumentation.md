@@ -87,7 +87,11 @@ MySQL ist ein beliebtes relationales Open-Source-Datenbankmanagementsystem. Es w
 
 Login Seite
 
-![alt text](https://i.ibb.co/yXv8zVC/Screenshot-2023-02-17-000105.png)
+![login](https://i.ibb.co/yXv8zVC/Screenshot-2023-02-17-000105.png)
+
+Spin Site
+
+![Spin](https://i.ibb.co/Y8CpJy5/Screenshot-2023-02-17-000527.png)
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
 
