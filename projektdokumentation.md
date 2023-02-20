@@ -99,15 +99,15 @@ Spin Site
 
 ✍️ Halten Sie fest, wann Sie welche User Story bearbeitet haben
 
-| User Story | Datum | Beschreibung |
-| ---------- | ----- | ------------ |
-| ...        |       |              |
+| User Story | Datum      | Beschreibung |
+| ---------- | ---------- | ------------ |
+| US1        | 20.02      |              |
 
 # 7 Projektdokumentation
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja / nein |                                           |
+| 1    | ja  | Ich habe einen Login und Sign Up erstellt                                          |
 | ...  |           |                                           |
 
 # 8 Testprotokoll
