@@ -101,13 +101,13 @@ Spin Site
 
 | User Story | Datum      | Beschreibung |
 | ---------- | ---------- | ------------ |
-| US1        | 20.02      |              |
+| US1        | 20.02      | Ich habe einen Login und Sign Up erstellt             |
 
 # 7 Projektdokumentation
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja  | Ich habe einen Login und Sign Up erstellt                                          |
+| 1    |   |                                           |
 | ...  |           |                                           |
 
 # 8 Testprotokoll
