@@ -55,6 +55,7 @@ MySQL ist ein beliebtes relationales Open-Source-Datenbankmanagementsystem. Es w
 | US-18 | Muss | Rand | Als Entwickler möchte ich eine Datenbankanbindung verwenden, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist. |
 | US-19 | Muss | Rand | Als Entwickler möchte ich Transaktionsmanagement einsetzen, um die Integrität der Daten sicherzustellen. |
 | US-20 | Muss | Rand | Als Entwickler möchte ich Sicherheitsaspekte umsetzen, um die Daten und die Anwendung vor unbefugtem Zugriff zu schützen. |
+| MU-1 | Kann | Rand | Als Kandidat möchte ich mit anderen, die gleichzeitig das Spiel spielen, chatten. |
 
 
 # 4.2 Testfälle
