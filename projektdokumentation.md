@@ -101,7 +101,7 @@ Spin Site
 
 | User Story | Datum      | Beschreibung |
 | ---------- | ---------- | ------------ |
-| US1        | 20.02      | Ich habe einen Login und Sign Up erstellt             |
+| US1        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
 
 # 7 Projektdokumentation
 
