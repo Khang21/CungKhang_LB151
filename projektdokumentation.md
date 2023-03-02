@@ -149,4 +149,4 @@ Spin Site
 - [ ] Ich habe alle mit ✍️ markierten Teile ersetzt
 
 
-[![IMAGE ALT TEXT HERE]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://www.youtube.com/watch?v=6TU6qQCfEFQ))]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=6TU6qQCfEFQ))
+[link text](https://example.com/my-link](https://www.youtube.com/watch?v=6TU6qQCfEFQ) "link title")
