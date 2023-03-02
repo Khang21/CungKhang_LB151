@@ -13,7 +13,7 @@
 
 In diesem Projekt werde ich das bekannte "Glücksrad" nachprogrammieren, dies war und ist noch einen der bekanntesten Spielshows in der USA und wird auch bald Adaptionen von mehrere anderen Länder haben.
 
-[Video Here](https://example.com/my-link](https://www.youtube.com/watch?v=6TU6qQCfEFQ) "Video Here")
+
 
 # 1 Analyse
 
@@ -114,24 +114,44 @@ Spin Site
 | US8        | 10.02      | Ich habe angefangen mit dem Spiel programmieren             |
 | US9        | 05.02      | Ich habe angefangen mit dem Spiel programmieren             |
 | US10        | 02.03      | Ich habe eine Liste Erstellt und darein die Daten aus der Sammlung "Users" genommen             |
-| US11        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
-| US12        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
-| US13        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
-| US14        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
-| US15        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
-| US16        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
-| US17        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
+| US11        | 05.02      | Ich habe diese oben genannte Liste sortiert nach Grösse             |
+| US14        | 05.02      | Ich habe Sammlungen auf mein Firestore Datenbank erstellt             |
+| US16        | 05.02      | Ich habe es programmiert, sodass, wenn der Benutzer nicht im Firebase ist, dass die Seite nicht wechselt             |
+| US17        | 05.02      | Ich habe Firebase ausgewählt             |
+| US18        | 05.02      | Ich habe Firebase angebunden             |
+| US20        | 05.02      | Firebase hat ein automatisches Passwort Hashing             |
+
 
 # 7 Projektdokumentation
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    |   |                                           |
-| ...  |           |                                           |
+| 1    |  ja |   Erst wenn der Benutzer vom Firebase gesehen wird, wird die Seite gewechselt                                        |
+| 2    |  ja |   Siehe ManageCat                                        |
+| 3    |  ja |   Siehe AddCat                                        |
+| 4    |  ja |   Siehe ManageUser                                        |
+| 5    |  ja |                                           |
+| 6    |  ja |                                           |
+| 7    |  ja |                                           |
+| 8    |  ja |                                           |
+| 9    |  ja |                                           |
+| 10    |  ja |                                           |
+| 11    |  ja |                                           |
+| 12    |  nein |                                           |
+| 13    |  nein |                                           |
+| 14    |  ja |                                           |
+| 15    |  nein |                                           |
+| 16    |  ja |                                           |
+| 17    |  ja |                                           |
+| 18    |  ja |                                           |
+| 19    |  nein |                                           |
+| 20    |  ja |                                           |
+
+
 
 # 8 Testprotokoll
 
-✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
+[Video Here](https://example.com/my-link](https://www.youtube.com/watch?v=6TU6qQCfEFQ) "Video Here")
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
