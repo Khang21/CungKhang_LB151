@@ -135,8 +135,22 @@ Spin Site
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 02.03.2023      |   Gut       |   Cung     |
+| 1.2  | 02.03.2023      |   Gut       |   Cung     |
+| 1.3  | 02.03.2023      |   Gut       |   Cung     |
+| 1.4  | 02.03.2023      |   Gut       |   Cung     |
+| 1.5  | 02.03.2023      |   Gut       |   Cung     |
+| 1.6  | 02.03.2023      |   Gut       |   Cung     |
+| 1.7  | 02.03.2023      |   Gut       |   Cung     |
+| 1.8  | 02.03.2023      |   Gut       |   Cung     |
+| 1.9  | 02.03.2023      |   Gut       |   Cung     |
+| 1.11  | 02.03.2023      |   Gut       |   Cung     |
+| 1.14  | 02.03.2023      |   Gut       |   Cung     |
+| 1.16  | 02.03.2023      |   Gut       |   Cung     |
+| 1.17  | 02.03.2023      |   Gut       |   Cung     |
+| 1.18  | 02.03.2023      |   Gut       |   Cung     |
+| 1.20  | 02.03.2023      |   Gut       |   Cung     |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
