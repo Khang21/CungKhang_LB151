@@ -47,7 +47,7 @@ Firestore ist eine NoSQL-Datenbank, die von Google entwickelt wurde und als Teil
 | US-10 | Muss | Funktional | Als Kandidat oder Kandidatin möchte ich in der Highscore-Liste Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag und Anzahl Spielrunden sehen können. |
 | US-11 | Muss | Funktional | Als Kandidat oder Kandidatin möchte ich dass die Highscore-Liste nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend sortiert ist. |
 | US-12 | Muss | Funktional | Als Administrator möchte ich sicherstellen, dass kein Rätsel-Wort und keine Phrase einem Spieler mehr als einmal gestellt werden. |
-| US-13 | Muss | Funktional | Als Kandidat möchte ich jederzeit die Möglichkeit haben entweder weiter zu spielen oder aufzuhören und meinen Gewinn in die Highscore-Liste übernehmen zu können. |
+| US-13 | Muss | Funktional | Als Kandidat möchte ich jederzeit die Möglichkeit haben entweder weiter zu spielen |
 | US-14 | Muss | Funktional | Als Administrator möchte ich sicherstellen, dass das Spiel mit einer spielbaren Anzahl Wörtern und Fragen gefüllt ist. |
 | US-15 | Muss | Funktional | Als Administrator möchte ich die Anzahl der Spielrunden zählen zu können. |
 | US-16 | Muss | Rand | Als Entwickler möchte ich sicherstellen, dass einfache Formulareingaben auf Client- und Serverseite geprüft werden. |
@@ -62,19 +62,19 @@ Firestore ist eine NoSQL-Datenbank, die von Google entwickelt wurde und als Teil
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1 | Erstellen Sie ein gültiges Konto mit dem Benutzernamen "admin" und dem Passwort "password" | Geben Sie "admin" als Benutzernamen und "password" als Passwort ein | Erfolgreiche Anmeldung und Zugriff auf die Administrationsfunktionen |
-| 2.1 | Legen Sie ein Rätselwort an | Geben Sie als Rätselwort "Kiwi" als Antwort und "Food" als Kategorie | Erfolgreiche Anlage des Rätselwortes |
-| 3.1 | Legen Sie eine Kategorie an | Geben Sie "Früchte" als Kategorie | Erfolgreiche Anlage der Kategorie |
+| 1.1 | Erstellen Sie ein gültiges Konto mit dem Benutzernamen "khang@cung.ch" und dem Passwort "Passwort321" | Geben Sie Benutzernamen "khang@cung.ch" und dem Passwort "Passwort321" ein | Erfolgreiche Anmeldung und Zugriff auf die Administrationsfunktionen |
+| 2.1 | Legen Sie ein Rätselwort an | Fügen Sie als Rätselwort "Kiwi","Banana" als Antwort hinzu | Erfolgreiche Anlage des Rätselwortes |
+| 3.1 | Legen Sie eine Kategorie an | Geben Sie "Früchte" als Kategorie und dazu mind. 1 Element in der Sammlung rein | Erfolgreiche Anlage der Kategorie |
 | 4.1 | Löschen Sie einen Eintrag aus der Highscore-Liste | Wählen Sie den Eintrag "Spieler1" aus der Highscore-Liste und klicken Sie auf "Löschen" | Erfolgreiche Löschung des Eintrags "Spieler1|
 | 5.1 | Öffnen Sie die Anwendung im Webbrowser | N/A | Anzeige der Anwendung im Webbrowser |
-| 6.1 | Der Kandidat oder die Kandidatin gibt einen Namen ein | Geben Sie "Max Mustermann" als Namen ein (Das Spiel noch zu Ende spielen) | Der Name "Max Mustermann" erscheint auf der Highscore-Liste |
+| 6.1 | Der Kandidat oder die Kandidatin gibt einen Namen ein | Geben Sie "Max Mustermann" als Namen ein (Das Spiel noch zu Ende spielen) | Er kommt ins Spiel rein |
 | 7.1 | Der Kandidat oder die Kandidatin sieht den Kontostand | N/A | Anzeige des aktuellen Kontostands |
 | 8.1 | Der Kandidat oder die Kandidatin sieht die Lebenspunkte | N/A | Anzeige der aktuellen Lebenspunkte |
 | 9.1 | Der Kandidat oder die Kandidatin wählt eine Antwort | Wählen Sie Buchstaben aus | Anzeige "richtig" oder "falsch" |
-| 10.1 | In der Highscore-Liste werden Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag, Anzahl Spielrunden aufgeführt | N/A | Anzeige der Highscore-Liste mit Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag und Anzahl Spielrunden |
+| 10.1 | In der Highscore-Liste werden Rang, Name des Spielers aufgeführt | N/A | Anzeige der Highscore-Liste mit Rang, Name des Spielers |
 | 11.1 | Die Highscore-Liste wird nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend sortiert | N/A | Anzeige der Highscore-Liste sortiert nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend |
 | 12.1 | Kein Rätsel-Wort und keine Phrase sollen einem Spieler mehr als einmal gestellt werden | N/A | Keine Wiederholung von Rätsel-Wörtern und Phrasen für einen Spieler |
-| 13.1 | Der Kandidat kann jederzeit entweder spielen, oder aufhören und seinen Gewinn in die Higscore-Liste übernehmen | Wählen Sie "Stop" | Der aktuelle Gewinn des Kandidaten wird in die Highscore-Liste übernommen und das Spiel beendet |
+| 13.1 | Der Kandidat kann jederzeit entweder spielen, oder aufhören und seinen Gewinn in die Higscore-Liste übernehmen | Wählen Sie "Stop" | Das Spiel wird beendet und Sie werden zurück zur Login gebracht |
 | 14.1 | Das Spiel soll mit einer spielbaren Anzahl Wörtern und Fragen gefüllt werden | N/A | Das Spiel enthält eine ausreichende Anzahl an Wörtern und Fragen für ein Spiel |
 | 15.1 | Die Anzahl der Spielrunden soll gezählt werden | N/A | Anzeige der Anzahl der gespielten Runden im Spiel |
 | 16.1 | Stellen Sie sicher, dass auf der Serverseite und Client-Seite Formulareingaben überprüft werden | Geben Sie ein leeres Textfeld ein | Fehlermeldung, dass das Textfeld nicht ausgefüllt werden darf |
