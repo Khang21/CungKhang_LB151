@@ -103,6 +103,22 @@ Spin Site
 | User Story | Datum      | Beschreibung |
 | ---------- | ---------- | ------------ |
 | US1        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
+| US2        | 26.02      | Ich habe einen Admin Panel erstellt, welches ein ManageCat Klasse hat            |
+| US3        | 26.02      | Ich habe einen Admin Panel erstellt, welches ein AddCat Klasse hat             |
+| US4        | 01.03      | Ich habe einen Admin Panel erstellt, welches ein ManageUser Klasse hat             |
+| US5        | Day 1      | Ich habe einen React App erstellt.             |
+| US6        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
+| US7        | 10.02      | Ich habe angefangen mit dem Spiel programmieren             |
+| US8        | 10.02      | Ich habe angefangen mit dem Spiel programmieren             |
+| US9        | 05.02      | Ich habe angefangen mit dem Spiel programmieren             |
+| US10        | 02.03      | Ich habe eine Liste Erstellt und darein die Daten aus der Sammlung "Users" genommen             |
+| US11        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
+| US12        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
+| US13        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
+| US14        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
+| US15        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
+| US16        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
+| US17        | 05.02      | Ich habe einen Login und Sign Up erstellt             |
 
 # 7 Projektdokumentation
 
@@ -131,3 +147,6 @@ Spin Site
 - [ ] Ich habe die Rechtschreibung überprüft
 - [ ] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
 - [ ] Ich habe alle mit ✍️ markierten Teile ersetzt
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6TU6qQCfEFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
